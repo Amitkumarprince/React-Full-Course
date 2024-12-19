@@ -1,0 +1,28 @@
+.container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1{
+    font-size: 40px;
+}
+
+.dark {
+    background-color: rgb(46, 41, 41);
+    color: white;
+}
+
+.light {
+    background-color: white;
+    color: rgb(46, 41, 41);
+}
+
+.btn{
+    font-size: 30px;
+    background-color: #08a4ec;
+    color: white;
+}
